@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<zodiaco>
+    <Signo>
+        <nome>Aquário ♒</nome>
+        <inicio>01-21</inicio>
+        <fim>02-18</fim>
+    </Signo>
+    <Signo>
+        <nome>Peixes ♓</nome>
+        <inicio>02-19</inicio>
+        <fim>03-20</fim>
+    </Signo>
+    <Signo>
+        <nome>Áries ♈</nome>
+        <inicio>03-21</inicio>
+        <fim>04-20</fim>
+    </Signo>
+    <Signo>
+        <nome>Touro ♉</nome>
+        <inicio>04-21</inicio>
+        <fim>05-20</fim>
+    </Signo>
+    <Signo>
+        <nome>Gêmeos ♊</nome>
+        <inicio>05-21</inicio>
+        <fim>06-20</fim>
+    </Signo>
+    <Signo>
+        <nome>Câncer ♋</nome>
+        <inicio>06-21</inicio>
+        <fim>07-22</fim>
+    </Signo>
+    <Signo>
+        <nome>Leão ♌</nome>
+        <inicio>07-23</inicio>
+        <fim>08-22</fim>
+    </Signo>
+    <Signo>
+        <nome>Virgem ♍</nome>
+        <inicio>08-23</inicio>
+        <fim>09-22</fim>
+    </Signo>
+    <Signo>
+        <nome>Libra ♎</nome>
+        <inicio>09-23</inicio>
+        <fim>10-22</fim>
+    </Signo>
+    <Signo>
+        <nome>Escorpião ♏</nome>
+        <inicio>10-22</inicio>
+        <fim>11-21</fim>
+    </Signo>
+    <Signo>
+        <nome>Sagitário ♐</nome>
+        <inicio>11-22</inicio>
+        <fim>12-21</fim>
+    </Signo>
+    <Signo>
+        <nome>Capricórnio ♑</nome>
+        <inicio>12-22</inicio>
+        <fim>01-20</fim>
+    </Signo>
+</zodiaco>
