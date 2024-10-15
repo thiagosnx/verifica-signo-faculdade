@@ -10,7 +10,7 @@ Class Signo{
         }
         $dt_nasc = filter_input(INPUT_POST, 'dt_nasc');
         $dt_nasc = DateTime::createFromFormat('Y-m-d', $dt_nasc);
-        if(!$dt_nasc || $dt_nasc->format('Y-m-d') ==! $dt_nasc){
+        if(!$dt_nasc || $dt_nasc->format('Y-m-d') !== $dt_nasc){
             echo "Boa tentativa. Data inválida.";
             throw new Exception();
         }
